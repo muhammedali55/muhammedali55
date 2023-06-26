@@ -15,10 +15,7 @@ Hello there! I'm a seasoned Java software developer with over 20 years of experi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammedali55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/0xmuhammetali)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
